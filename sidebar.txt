@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kqc:home|Door43 (kqc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kqc|d43-kqc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kqc/archive/master.zip|d43-kqc.zip]]
+
+**Recent Changes**
+{{changes>ns = kqc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kqc|Ethnologue data]]
+
